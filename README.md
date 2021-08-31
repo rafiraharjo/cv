@@ -7,7 +7,7 @@
 * Saat ini saya menggunakan **HTML, CSS, JS, dan PHP** dengan **Framework CodeIgniter dan Bootstrap**, dan memahami **SQL Database**
 * Saya tertarik dengan **Teknologi**
 * Saya juga sedang mendalami **NodeJS, ReactJS, NextJS, dan RestAPI**
-* Saya suka **Olahraga**, seperti **Tennis, Badminton, Lari, Bersepeda, Lempar Pisau** dan ingin mencoba **Panahan/Memanah**
+* Saya suka **Olahraga**, seperti **Tennis, Badminton, Lari, Bersepeda**
 
 ## My Style
 * Tenang dan kalem, simple.
